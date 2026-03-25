@@ -11,6 +11,7 @@ public class KafkaProducerStream {
 
 //    private final KafkaTemplate<String, String> kafkaTemplate;
 //
+     //
 //    public KafkaProducer(KafkaTemplate<String, String> kafkaTemplate) {
 //        this.kafkaTemplate = kafkaTemplate;
 //    }
