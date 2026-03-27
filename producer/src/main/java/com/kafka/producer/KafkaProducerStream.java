@@ -29,6 +29,7 @@ public class KafkaProducerStream {
             RiderLocation riderLocation = new RiderLocation("XZ" , 23.34,56.353);
             System.out.println("Sending: " + riderLocation.getRiderId());
             System.out.println("from RiderLocation");
+            System.out.println("from RiderLocation");
             return riderLocation;
         };
     }
