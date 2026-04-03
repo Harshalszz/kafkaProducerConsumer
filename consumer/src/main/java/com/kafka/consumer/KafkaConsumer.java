@@ -11,6 +11,10 @@ public class KafkaConsumer {
         System.out.println("Recevied Message 1: " + message);
     }
 
+    @KafkaListener(topics = "my-topic" , groupId = "my-new-group")
+    public void listen2(String message){
+        System.out.println("Recevied Message 1: " + message);
+    }
 
 
 
