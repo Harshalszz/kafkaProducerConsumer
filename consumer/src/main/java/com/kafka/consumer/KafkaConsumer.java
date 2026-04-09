@@ -9,7 +9,6 @@ public class KafkaConsumer {
     @KafkaListener(topics = "my-topic" , groupId = "my-new-group")
     public void listen1(String message){
         System.out.println("Recevied Message 34: " + message);
-        System.out.println("added logger");
     }
 
 
