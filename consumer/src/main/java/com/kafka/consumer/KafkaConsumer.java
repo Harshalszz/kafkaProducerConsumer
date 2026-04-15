@@ -8,7 +8,7 @@ public class KafkaConsumer {
 
     @KafkaListener(topics = "my-topic" , groupId = "my-new-group")
     public void listen1(String message){
-        System.out.println(" Received  56: " + message);
+        System.out.println("   56: " + message);
     }
 
 
