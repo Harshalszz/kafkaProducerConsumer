@@ -4,5 +4,7 @@ public class TestTwo {
 //addd commit
     public static void main(String[] args) {
 
+        int a= 10;
+
     }
 }
