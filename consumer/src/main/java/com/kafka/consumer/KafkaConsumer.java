@@ -23,4 +23,9 @@ public class KafkaConsumer {
     public void listenRiderLocation(RiderLocation riderLocation){
         System.out.println(" added topic 2: " + riderLocation.getRiderId());
     }
+
+    @KafkaListener(topics = "my-topic-new-1" , groupId = "my-new-group-1")
+    public void listenRiderLocation34(RiderLocation riderLocation){
+        System.out.println(" added topic 2: " + riderLocation.getRiderId());
+    }
 }
