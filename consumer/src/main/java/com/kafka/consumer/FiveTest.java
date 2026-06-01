@@ -4,5 +4,6 @@ public class FiveTest {
     // added comitt
     public static void main(String[] args) {
         int var = 788;
+        String name = "Iron man" ;
     }
 }
