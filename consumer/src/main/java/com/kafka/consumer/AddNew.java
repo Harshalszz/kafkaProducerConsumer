@@ -1,8 +1,14 @@
 package com.kafka.consumer;
 
-public class addTest {
+public class AddNew {
+
 
     public static void main(String[] args) {
-        //comment
+
+        // add
+
+        int hi = 90;
+
+
     }
 }

@@ -5,5 +5,6 @@ public class FiveTest {
     public static void main(String[] args) {
         int var = 788;
         String name = "Iron man" ;
+        boolean flag = true;
     }
 }
