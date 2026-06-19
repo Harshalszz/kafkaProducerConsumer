@@ -7,5 +7,8 @@ public class AddNew {
 
         //add
 
+        int hi = 0 ;
+
+
     }
 }
