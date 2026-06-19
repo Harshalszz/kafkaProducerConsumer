@@ -7,7 +7,7 @@ public class AddNew {
 
         // add
 
-        int hi = 0 ;
+        int hi = 90;
 
 
     }
