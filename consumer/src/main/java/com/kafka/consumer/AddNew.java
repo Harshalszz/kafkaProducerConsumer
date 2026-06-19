@@ -5,7 +5,7 @@ public class AddNew {
 
     public static void main(String[] args) {
 
-        //add
+        // add
 
         int hi = 0 ;
 
